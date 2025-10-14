@@ -1,6 +1,6 @@
 {
-  "version": "v8.25.54 (patches 5.42.1)",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/b68jco540/ubiquitous-fortnight/releases/download/9/music-revanced-magisk-v8.25.54-arm-v7a.zip",
+  "version": "v8.25.54 (patches 5.43.0)",
+  "versionCode": 10,
+  "zipUrl": "https://github.com/b68jco540/ubiquitous-fortnight/releases/download/10/music-revanced-magisk-v8.25.54-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/b68jco540/ubiquitous-fortnight/update/build.md"
 }
